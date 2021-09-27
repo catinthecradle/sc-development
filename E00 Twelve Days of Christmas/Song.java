@@ -1,3 +1,10 @@
+//
+//  Twelve Days of Christmas
+//  Song.java
+//
+//  Created by Jonas Zellweger on 27.09.2021.
+//
+
 public class Song {
 
     String firstline = "On the nth day of Christmas";
@@ -22,12 +29,6 @@ public class Song {
             "Twelve drummers drumming"
     };
     int maxVerses = 12;
-//
-//  Twelve Days of Christmas
-//  Song.java
-//
-//  Created by Jonas Zellweger on 27.09.2021.
-//
 
     public static void main(String[] args) {
     }
